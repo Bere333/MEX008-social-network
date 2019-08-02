@@ -21,10 +21,18 @@ Básicamente, está pensada para
 
 ### Personas que desean mascotas
 
-##Prototipo
-Nuestro prototipo de baja fidelidad, lo realizamos a partir de una lluvia de ideas y definiendo las secciones más importantes y más útiles para los usuarios. Tomando en cuenta la funcionalidad, la practicidad y que pueda ser atractiva para ser visitada continuamente por los usuarios, permitiendo crear un perfil básico en donde aparezca también la información de las mascotas de los usuarios. 
+## Prototipo de baja fidelidad
+Nuestro prototipo de baja fidelidad, lo realizamos a partir de una lluvia de ideas y definiendo las secciones más importantes y más útiles para los usuarios, así como feedback de al menos cinco personas. Tomando en cuenta la funcionalidad, la practicidad y que pueda ser atractiva para ser visitada continuamente por los usuarios, permitiendo crear un perfil básico en donde aparezca también la información de las mascotas de los usuarios. 
 
 ![prototipo](src/img/pro.jpg)
+## Prototipo de Alta fidelidad
+A partir de 3 feedback iterativos llegamos a la siguiente propuesta:
+- Una pantalla de login (que permite al usuario iniciar sesión con sus datos/Facebook/Google)
+- Una pantalla de registro (continuación de la anterior pantalla)
+- Pantalla de la información del usuario, dónde podrá registrar a cualquier número de mascotas e incluso subir fotografías de ellas. 
+- Pantalla de actividades importantes del usuario con sus mascotas (vacunas, citas, salidas, el etc)
+https://www.figma.com/file/ZLiehtcKzvRbtlNrS5FlEJ/Untitled?node-id=0%3A1 
+
 
 
 
