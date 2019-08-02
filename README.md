@@ -24,7 +24,7 @@ Básicamente, está pensada para
 ##Prototipo
 Nuestro prototipo de baja fidelidad, lo realizamos a partir de una lluvia de ideas y definiendo las secciones más importantes y más útiles para los usuarios. Tomando en cuenta la funcionalidad, la practicidad y que pueda ser atractiva para ser visitada continuamente por los usuarios, permitiendo crear un perfil básico en donde aparezca también la información de las mascotas de los usuarios. 
 
-![prototipo](".src/img/pro.jpg")
+![prototipo](src/img/pro.jpg)
 
 
 
