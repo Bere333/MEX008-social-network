@@ -1,8 +1,6 @@
 //Template of login
-
-let login=  
-
-`<section class="login" id="login">
+export const login = `
+<section class="login" id="login">
 <header>
     <figure><img src="img/fur-logo.png" alt="Logo fur" id="logo-login"></figure>
 </header>
@@ -17,9 +15,12 @@ let login=
     </a>
 </div>
 <p>O</p>
-<input type="text" class="input-login" placeholder="Usuario">
-<input type="password" name="password" id="password" class="input-login" placeholder="Contraseña">
+<form action="">
+    <input type="text" class="input-login" placeholder="Usuario">
+    <input type="password" name="password" id="password" class="input-login" placeholder="Contraseña">
+</form>
+
 <a href="" class="register">Regístrate</a>
 <input type="button" value="Ingresar" class="buttons">
 
-</section>`
+</section>`;
